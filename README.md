@@ -2,6 +2,8 @@
 
 z80pg2026 is a Z80 based single board computer (SBC) on a breadboard.
 
+![Photo of a z80pg2026 with LCD](doc/photo.jpg)
+
 ## Hardware
 
 ### Main components

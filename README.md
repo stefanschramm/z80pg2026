@@ -2,9 +2,11 @@
 
 z80pg2026 is a Z80 based single board computer (SBC) on a breadboard.
 
-![Photo of a z80pg2026 with LCD](doc/photo.jpg)
+![Photo of a z80pg2026 with LCD](doc/photo.jpg) ![Schematics of z80pg2026](schematics/z80pg2026.png)
 
 ## Hardware
+
+[Schematics (PDF)](schematics/z80pg2026.pdf)
 
 ### Main components
 
@@ -13,7 +15,7 @@ z80pg2026 is a Z80 based single board computer (SBC) on a breadboard.
 - 16C550 - UART controller
 - 62C256 - 32 KByte SRAM
 - AT28C64 - 8 KByte ROM
-- MAX 232 - level converter
+- MAX 232 - V.24 level converter
 - 74HCT14 - hex Schmitt-Trigger inverter gate
 - 74HCT00 - quad 2-input NAND gate
 - 1.8432 MHz quarz oscillator
